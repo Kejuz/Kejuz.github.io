@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 博客建立时间：2016年5月23日。
 
 
-模版来自陈素封(www.cnfeat.com)，每天千字践行者。
+模版来自[陈素封](www.cnfeat.com)，每天千字践行者。
 
 
 ###联系
