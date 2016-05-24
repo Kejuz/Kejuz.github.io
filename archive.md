@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是陈素封练习千字文的所有文章"
+description: "你看到的，是Yin Kai的所有文章"
 header-img: "img/orange.jpg"
 ---
 
