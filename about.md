@@ -24,7 +24,7 @@ header-img: "img/green.jpg"
 - [QQ]778396039
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
 
 
