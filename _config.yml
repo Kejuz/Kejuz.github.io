@@ -8,7 +8,7 @@ url: "https://kejuz.github.io"
 
 # About/contact
 owner: 
-  name: "Yin Kai"
+  name: "Kejuz"
   email: 778396039@qq.com
   bio: "这是什么"
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Yin Kai"
+      author: "Kejuz"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

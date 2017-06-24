@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是Yin Kai的所有文章"
+description: "你看到的，是Kejuz的所有文章"
 header-img: "img/orange.jpg"
 ---
 
